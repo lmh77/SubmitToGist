@@ -1,4 +1,6 @@
-SubmitToGist 抄于 https://github.com/Popsiclestick/gist-sync-action
+SubmitToGist 
+=============
+抄于 https://github.com/Popsiclestick/gist-sync-action
 =============
 >需要填写的几个参数：
 >
